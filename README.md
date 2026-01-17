@@ -7,6 +7,10 @@
 
 ###
 
+<p align="center">Software engineer focused on web and full-stack development. Experience with JavaScript, React, Next.js, Node.js, and relational and NoSQL databases. Interested in software architecture, system design, and clean, maintainable code.</p>
+
+###
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
   <img width="12" />
